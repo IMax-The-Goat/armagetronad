@@ -1385,10 +1385,10 @@ window_title_local      \g - Playing locally
 
 main_menu_text			\g v\1
 
-game_menu_text			Play Game
+game_menu_text			Cars
 game_menu_main_help		Game configuration and launch.
 
-player_mainmenu_text		Player Setup
+player_mainmenu_text		Storage Closet
 player_mainmenu_help		Select player names and control methods.
 
 system_settings_menu_text	System Setup
